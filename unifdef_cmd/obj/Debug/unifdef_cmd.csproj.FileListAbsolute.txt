@@ -1,0 +1,6 @@
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\bin\Debug\unifdef_cmd.exe.config
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\obj\Debug\unifdef_cmd.csprojResolveAssemblyReference.cache
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\bin\Debug\unifdef_cmd.exe
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\bin\Debug\unifdef_cmd.pdb
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\obj\Debug\unifdef_cmd.exe
+c:\users\fiscjose\documents\visual studio 2015\Projects\unifdef_cmd\unifdef_cmd\obj\Debug\unifdef_cmd.pdb
